@@ -6,7 +6,7 @@
 📚 **Always Learning • Always Growing • Never Giving Up** 🚀
 
 > 🌱 "Learn today, grow tomorrow, and never stop chasing your dreams." ✨💻🔥
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
