@@ -1,12 +1,11 @@
-# Hi, I'm Mahesh 👋
+
+# 👋 Hi, I'm Mahesh!
 
 📧 **Email:** mahesh18839@gamil.com
 
-> 💡 "Learn something new every day, because every step you take today builds the future you dream of tomorrow."
+📚 **Always Learning • Always Growing • Never Giving Up** 🚀
 
-<!--
-**mahesh18839/mahesh18839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+> 🌱 "Learn today, grow tomorrow, and never stop chasing your dreams." ✨💻🔥
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
