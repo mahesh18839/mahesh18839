@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Mahesh 👋
+
+📧 **Email:** mahesh18839@gamil.com
+
+> 💡 "Learn something new every day, because every step you take today builds the future you dream of tomorrow."
 
 <!--
 **mahesh18839/mahesh18839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
